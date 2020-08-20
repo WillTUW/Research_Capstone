@@ -1,3 +1,6 @@
+# Link to Google Doc Report
+https://docs.google.com/document/d/1cXfWUpGWWAULfbIMFGc21M7PWcwTO9r9ufG70CCShCQ/edit?usp=sharing
+
 # Deterministic Schedule Evaluator
 
 The purpose of this document is to provide an explanation behind the design, implementation and use of the deterministic Schedule evaluator.
